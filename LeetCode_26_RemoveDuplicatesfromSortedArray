@@ -1,3 +1,14 @@
+'''
+Problem Info:
+Problem No - 26
+Title - Remove Duplicates from Sorted Array
+Topic - Array / Two - Pointers
+Diffculty - Easy
+Time Complexity - O(n)
+Space Complexity - O(1)
+'''
+
+
 nums = [1,1,2]
 
 if not nums:
